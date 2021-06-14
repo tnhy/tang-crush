@@ -1,9 +1,11 @@
 const CONFIG = {
     introTitle: 'Nhi ơi!',
     introDesc: `Em nhớ chị quá =((( 
-    xa nhau lâu thế còn gì:(((
-    em không muốn mình như này nữa đâu :((
-    em nho chi nhieu lam luôn á :( thề em cũng muốn k nghĩ đến chị nữa em cũng muốn quên chị em càng muon ban than ghet chi nhung ma deo bao giờ em làm được tối nào em cung doi chị ib cho em giống lúc trước vậy á :((( nhung ma k thấy đâu minh buon muon khoc
+    Xa nhau lâu thế còn gì:(((
+    Em không muốn mình như này nữa đâu :((
+    Em nho chi nhieu lam luôn á :( thề em cũng muốn k nghĩ đến chị nữa 
+    Em cũng muốn quên chị em càng muon ban than ghet chi nhung ma deo bao giờ em làm được tối nào em cung doi chị ib cho em giống lúc trước vậy á :((( 
+    Nhung ma k thấy đâu minh buon muon khoc
     En k muốn xa chị nữa đâu
     Em xin lỗi 
     Em không nên nói mấy lời như vậy lúc đấy e thực sự bực mình vl nên em mới nặng lời như vậy với chị `,
@@ -19,4 +21,4 @@ const CONFIG = {
     messDesc: 'Nêu có dịp bọn mình gặp nhau nha công chúa cụa em :3.',
     btnAccept: 'Dạ bé <3',
     messLink: 'http://fb.com' 
-    }
+}
