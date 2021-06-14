@@ -1,19 +1,22 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    introTitle: 'Nhi ơi!',
+    introDesc: `Em nhớ chị quá =((( 
+    xa nhau lâu thế còn gì:(((
+    em không muốn mình như này nữa đâu :((
+    em nho chi nhieu lam luôn á :( thề em cũng muốn k nghĩ đến chị nữa em cũng muốn quên chị em càng muon ban than ghet chi nhung ma deo bao giờ em làm được tối nào em cung doi chị ib cho em giống lúc trước vậy á :((( nhung ma k thấy đâu minh buon muon khoc
+    En k muốn xa chị nữa đâu
+    Em xin lỗi 
+    Em không nên nói mấy lời như vậy lúc đấy e thực sự bực mình vl nên em mới nặng lời như vậy với chị `,
+    btnIntro: 'huhu :((((',
+    title: 'Thực ra em còn yêu chị nhiều lắm thương chị nữa chả bao giờ em muốn nói lời chia tay với chị hết á:((',
+    desc: 'Chị lại ở bên em có được không:( đừng xa nhau nữa có được không ?',
+    btnYes: 'Dạ yêu em nhiều <33',
+    btnNo: 'Không:)',
+    question:'Mình đừng xa nhau nữa nhaaaa bbi <3',
+    btnReply: 'Gửi em <3',
+    reply: 'Dạ <33333333',
+    mess: 'Em biết mà <3 em biết chị cũng yêu em nhiều lắm mà:3 Em yêu chị nhiều nhiều 😘😘',
+    messDesc: 'Nêu có dịp bọn mình gặp nhau nha công chúa cụa em :3.',
+    btnAccept: 'Dạ bé <3',
+    messLink: 'http://fb.com' 
+    }
